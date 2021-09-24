@@ -35,6 +35,11 @@
     <artifactId>maven-pmd-plugin</artifactId>
     <version>3.14.0</version>
     </dependency>
+    <dependency>
+    <groupId>org.artifactory</groupId>
+    <artifactId>artifactory-config</artifactId>
+    <version>7.6.3</version>
+</dependency>
   </dependencies>
 
   <build>
