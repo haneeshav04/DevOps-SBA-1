@@ -6,6 +6,7 @@
 
   <groupId>com.mindtree</groupId>
 	<artifactId>milestone-assessment</artifactId>
+	<packaging>war</packaging>
 	 <version>0.0.1-SNAPSHOT</version>
   <name>milestone-assessment</name>
   <!-- FIXME change it to the project's website -->
